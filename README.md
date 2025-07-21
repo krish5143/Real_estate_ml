@@ -26,3 +26,6 @@ It uses features like area type, availability, location, size, total_sqft, BHK, 
 4. The UI displays the predicted price.
 
 ---
+## 🖼️ GUI Preview
+
+![App Screenshot](Realestate_samnagar_gui.png)
